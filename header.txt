@@ -1,3 +1,4 @@
 Some text
-File has changed
+File has changed - new changes!!!
+
 
