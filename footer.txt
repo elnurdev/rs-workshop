@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is footer.txt
+=======
+Some text for footer
+>>>>>>> daea251 (fix: for first)
 

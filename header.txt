@@ -1,4 +1,6 @@
 Some text
-File has changed - new changes!!!
+File has changed
+Change from <first>
+Text from master: - new changes!!!
 
-
+Some text for header
